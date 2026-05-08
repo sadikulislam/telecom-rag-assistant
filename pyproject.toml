@@ -1,0 +1,9 @@
+[project]
+name = "rag-telecom-assistant"
+version = "0.1.0"
+description = "RAG-based telecom customer care assistant"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    
+]
